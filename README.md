@@ -10,7 +10,7 @@
   </a>
 
 - 👋  Hi, I’m Harold Moreno
+- 🎓  I'm a Systems Engineer
 - 💼  I'm a FullStack Developer at Codesa
-- 📚  I'm a Systems Engineering Student
 
 Credit: [aastha12](https://github.com/aastha12)
