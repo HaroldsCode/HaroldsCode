@@ -9,8 +9,8 @@
     <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
 
-- 👋  Hi, I’m Harold Moreno
+- 👋  Hi, I’m Harold Castro
 - 🎓  I'm a Systems Engineer
-- 💼  I'm a FullStack Developer at Codesa
+- 💼  I'm a Development Consultant at Softka Technologies
 
 Credit: [aastha12](https://github.com/aastha12)
