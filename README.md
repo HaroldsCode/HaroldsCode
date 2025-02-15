@@ -11,6 +11,6 @@
 
 - 👋  Hi, I’m Harold Castro
 - 🎓  I'm a Systems Engineer
-- 💼  I'm a Development Consultant at Softka Technologies
+- 💼  I'm a Development Consultant at Sofka Technologies
 
 Credit: [aastha12](https://github.com/aastha12)
